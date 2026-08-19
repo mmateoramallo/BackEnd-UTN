@@ -1,0 +1,16 @@
+# Maven
+**/target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Archivos temporales
+*~
+*.swp
