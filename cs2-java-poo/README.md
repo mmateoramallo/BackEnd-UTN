@@ -333,6 +333,10 @@ La intención es observar cómo una solución inicialmente pequeña comienza a c
 │   ├── README.md
 │   ├── src
 │   └── target
+├── f05-mascota-funcional-UI
+│   ├── pom.xml
+│   ├── README.md
+│   └── src
 └── README.md
 ```
 
